@@ -1,0 +1,16 @@
+app
+blog
+cn
+go
+jp
+login
+m
+pc
+shop
+store
+tg
+us
+web
+wwe
+www
+www2

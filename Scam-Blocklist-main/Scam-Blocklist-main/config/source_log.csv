@@ -1,0 +1,823 @@
+Timestamp,Source,Item,Raw Count,Final Count,Whitelisted,Dead,Parked,Toplist,Queries,Status
+08:58:18 08-04-24,aa419.org,,500,8,0,20,37,0,,saved
+08:58:18 08-04-24,guntab.com,,1801,39,0,235,82,0,,saved
+08:58:18 08-04-24,petscams.com,,299,6,0,13,7,0,,saved
+08:58:18 08-04-24,scam.directory,,300,2,0,62,154,0,,saved
+08:58:18 08-04-24,scamadviser.com,,17,1,1,2,1,0,,saved
+08:58:18 08-04-24,stopgunscams.com,,75,0,0,1,0,0,,saved
+14:49:00 10-04-24,aa419.org,,500,25,0,22,35,0,,saved
+14:49:00 10-04-24,guntab.com,,1810,13,0,262,82,1,,saved
+14:49:00 10-04-24,petscams.com,,278,12,0,13,4,0,,saved
+14:49:00 10-04-24,scam.directory,,300,0,0,62,154,0,,saved
+14:49:00 10-04-24,scamadviser.com,,73,3,4,19,10,0,,saved
+14:49:00 10-04-24,stopgunscams.com,,75,6,0,2,0,0,,saved
+14:53:16 10-04-24,guntab.com,,1,1,0,0,0,0,,saved
+15:06:14 10-04-24,aa419.org,,500,0,0,22,35,0,,unsaved
+15:06:14 10-04-24,guntab.com,,1810,0,0,262,82,0,,unsaved
+15:06:14 10-04-24,petscams.com,,278,0,0,13,4,0,,unsaved
+15:06:14 10-04-24,scam.directory,,300,0,0,62,154,0,,unsaved
+15:06:14 10-04-24,scamadviser.com,,62,0,3,16,8,0,,unsaved
+15:06:14 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,unsaved
+15:19:47 10-04-24,aa419.org,,500,0,0,22,35,0,,unsaved
+15:19:47 10-04-24,guntab.com,,1810,0,0,262,82,0,,unsaved
+15:19:47 10-04-24,petscams.com,,278,0,0,13,4,0,,unsaved
+15:19:47 10-04-24,scam.directory,,300,0,0,62,154,0,,unsaved
+15:19:47 10-04-24,scamadviser.com,,66,1,3,16,8,2,,unsaved
+15:19:47 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,unsaved
+15:33:45 10-04-24,scamadviser.com,,3,1,1,0,0,0,,unsaved
+15:35:59 10-04-24,scamadviser.com,,1,0,0,0,0,0,,unsaved
+15:38:08 10-04-24,scamadviser.com,,1,0,0,0,0,0,,unsaved
+15:40:09 10-04-24,aa419.org,,500,0,0,22,35,0,,unsaved
+15:40:09 10-04-24,guntab.com,,1810,0,0,262,82,0,,unsaved
+15:40:09 10-04-24,petscams.com,,278,0,0,13,4,0,,unsaved
+15:40:09 10-04-24,scam.directory,,300,0,0,62,154,0,,unsaved
+15:40:09 10-04-24,scamadviser.com,,122,18,6,22,10,0,,unsaved
+15:40:09 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,unsaved
+15:59:28 10-04-24,aa419.org,,500,0,0,22,35,0,,saved
+15:59:28 10-04-24,guntab.com,,1810,0,0,262,82,0,,saved
+15:59:28 10-04-24,petscams.com,,208,0,0,12,2,0,,saved
+15:59:28 10-04-24,scam.directory,,300,0,0,62,154,0,,saved
+15:59:28 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,saved
+16:19:17 10-04-24,aa419.org,,500,0,0,22,35,0,,unsaved
+16:19:17 10-04-24,guntab.com,,1810,0,0,262,82,0,,unsaved
+16:19:17 10-04-24,petscams.com,,208,0,0,12,2,0,,unsaved
+16:19:17 10-04-24,scam.directory,,300,0,0,62,154,0,,unsaved
+16:19:17 10-04-24,scamadviser.com,,109,0,6,20,9,0,,unsaved
+16:19:17 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,unsaved
+16:26:54 10-04-24,scamadviser.com,,5,5,0,0,0,0,,saved
+16:56:38 10-04-24,aa419.org,,500,0,0,22,35,0,,saved
+16:56:38 10-04-24,guntab.com,,1810,0,0,262,82,0,,saved
+16:56:38 10-04-24,petscams.com,,208,0,0,12,2,0,,saved
+16:56:38 10-04-24,scam.directory,,300,0,0,62,154,0,,saved
+16:56:38 10-04-24,scamadviser.com,,64,0,3,15,7,0,,saved
+16:56:38 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,saved
+16:56:38 10-04-24,Google Search,"corteiz official store...",4,2,0,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"To provide the highest quality craftsmanship and best customer service possible every day, with ever...",4,0,0,1,0,0,1,saved
+16:56:38 10-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",37,1,1,1,0,0,5,saved
+16:56:38 10-04-24,Google Search,"We are one of the world’s leading Asset Management firms with approximately $500 billion in Assets u...",0,0,0,0,0,0,1,error: empty
+16:56:38 10-04-24,Google Search,"is the cryptocurrency trading platform equipped with the high-tech blockchain technology. We believe...",26,4,3,0,0,0,4,saved
+16:56:38 10-04-24,Google Search,"you join a community of millions of people who choose to share their opinions and complete offers in...",6,0,1,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"we are passionate about providing high-quality, stylish T-shirts that allow our customers to express...",7,1,0,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"Before we can show you nude pics of horny women in your area that want to fuck right now, we need to...",12,6,1,0,0,0,2,saved
+16:56:38 10-04-24,Google Search,"You will see hot nudes! Please be discreet....",1,1,0,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"There is no shortage of outstanding casinos in Australia. But for travelers and those who want to ge...",6,1,0,1,0,0,1,saved
+16:56:38 10-04-24,Google Search,"We are prepared to succeed. Our team of experts tackles your financial concerns with efficiency, ope...",0,0,0,0,0,0,1,error: empty
+16:56:38 10-04-24,Google Search,"helps everyone to create their own tokens and token sales in few seconds....",19,4,0,0,0,5,8,saved
+16:56:38 10-04-24,Google Search,"Since 2007 we have been delivering excellence in product development, support & updates for friction...",0,0,0,0,0,0,1,error: empty
+16:56:38 10-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",37,4,0,1,2,0,10,saved
+16:56:38 10-04-24,Google Search,"is a global comprehensive cryptocurrency trading platform that provides major mainstream cryptocurre...",5,0,0,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"Originated from the thinking of beauty. Different curves have different aesthetic feelings. Customiz...",8,3,0,0,0,0,1,saved
+16:56:38 10-04-24,Google Search,"We put customer satisfaction at the forefront of our business! We understand there is no business wi...",5,3,0,0,0,1,9,saved
+16:56:38 10-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",98,95,0,0,0,0,10,saved
+16:56:38 10-04-24,Google Search,"Your Gateway to Diverse Investments! Discover a world of investment opportunities tailored to meet y...",12,11,0,0,0,0,2,saved
+17:15:10 10-04-24,aa419.org,,500,0,0,22,35,0,,saved
+17:15:10 10-04-24,guntab.com,,1810,0,0,262,82,0,,saved
+17:15:10 10-04-24,petscams.com,,208,0,0,12,2,0,,saved
+17:15:10 10-04-24,scam.directory,,300,0,0,62,154,0,,saved
+17:15:10 10-04-24,scamadviser.com,,64,0,3,15,7,0,,saved
+17:15:10 10-04-24,stopgunscams.com,,75,0,0,2,0,0,,saved
+17:15:10 10-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,8,0,0,0,0,10,saved
+17:15:10 10-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,2,0,0,0,0,10,saved
+17:15:10 10-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,3,0,0,1,0,10,saved
+17:15:10 10-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,7,0,0,1,0,10,saved
+17:15:10 10-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",85,6,0,0,0,0,10,saved
+17:15:10 10-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+17:15:10 10-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",42,1,0,0,0,0,6,saved
+17:15:10 10-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,2,0,1,0,0,5,saved
+17:15:10 10-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",73,3,5,0,0,0,10,saved
+17:15:10 10-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",59,1,0,0,0,0,7,saved
+17:15:10 10-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",96,14,0,1,8,0,10,saved
+17:15:10 10-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",39,0,1,1,0,0,5,saved
+17:15:10 10-04-24,Google Search,"Since 2007 we have been delivering excellence in product development, support & updates for friction...",0,0,0,0,0,0,1,error: empty
+17:15:10 10-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",36,0,0,1,2,0,10,saved
+17:15:10 10-04-24,Google Search,"is a global comprehensive cryptocurrency trading platform that provides major mainstream cryptocurre...",5,0,0,0,0,0,1,saved
+17:15:10 10-04-24,Google Search,"Originated from the thinking of beauty. Different curves have different aesthetic feelings. Customiz...",8,0,0,0,0,0,1,saved
+17:15:10 10-04-24,Google Search,"We put customer satisfaction at the forefront of our business! We understand there is no business wi...",5,0,0,0,0,1,9,saved
+17:15:10 10-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",96,0,0,0,0,0,10,saved
+17:15:10 10-04-24,Google Search,"Your Gateway to Diverse Investments! Discover a world of investment opportunities tailored to meet y...",12,0,0,0,0,0,2,saved
+17:24:20 10-04-24,Google Search,"We put customer satisfaction at the forefront of our business! We understand there is no business wi...",1,1,0,0,0,0,,saved
+04:40:19 11-04-24,dnstwist,,65,65,0,0,0,0,,saved
+10:03:35 11-04-24,aa419.org,,250,219,0,2,0,0,,saved
+10:03:35 11-04-24,dnstwist,,1,1,0,0,0,0,,saved
+10:03:35 11-04-24,guntab.com,,1810,7,0,277,94,0,,saved
+10:03:35 11-04-24,petscams.com,,208,6,0,15,4,0,,saved
+10:03:35 11-04-24,scam.directory,,100,2,0,17,63,0,,saved
+10:03:35 11-04-24,scamadviser.com,,64,0,3,16,8,0,,saved
+10:03:35 11-04-24,stopgunscams.com,,75,0,0,4,0,0,,saved
+10:03:35 11-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,3,0,0,0,0,10,saved
+10:03:35 11-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,0,0,1,2,0,10,saved
+10:03:35 11-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",100,1,0,0,1,0,10,saved
+10:03:35 11-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,1,0,0,1,0,10,saved
+10:03:35 11-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",95,3,0,0,0,0,10,saved
+10:03:35 11-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:03:35 11-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",42,0,0,0,0,0,8,saved
+10:03:35 11-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,0,0,2,1,0,5,saved
+10:03:35 11-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",72,2,5,0,0,0,10,saved
+10:03:35 11-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",63,0,0,0,1,0,7,saved
+10:03:35 11-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,4,0,0,14,0,10,saved
+10:03:35 11-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,2,1,0,5,saved
+10:03:35 11-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",39,3,0,1,2,0,10,saved
+10:03:35 11-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",98,6,0,0,7,0,10,saved
+10:03:35 11-04-24,Google Search,"Your Gateway to Diverse Investments! Discover a world of investment opportunities tailored to meet y...",12,0,0,0,0,0,2,saved
+13:53:10 11-04-24,aa419.org,,500,181,0,15,17,0,,saved
+16:29:34 11-04-24,dnstwist,,22,22,0,0,0,0,,saved
+06:03:39 12-04-24,dnstwist,,22,22,0,0,0,0,,saved
+06:06:23 12-04-24,dnstwist,,1,1,0,0,0,0,,saved
+06:09:04 12-04-24,dnstwist,,0,0,0,0,0,0,,error: empty
+06:29:42 12-04-24,aa419.org,,250,19,0,0,0,1,,saved
+06:29:42 12-04-24,guntab.com,,1810,0,0,277,97,0,,saved
+06:29:42 12-04-24,petscams.com,,28,3,0,0,0,0,,saved
+06:29:42 12-04-24,scam.directory,,100,1,0,17,3,0,,saved
+06:29:42 12-04-24,scamadviser.com,,6,1,0,0,0,0,,saved
+06:29:42 12-04-24,stopgunscams.com,,75,1,0,4,0,0,,saved
+06:41:56 12-04-24,aa419.org,,1,0,0,0,0,1,,unsaved
+06:51:43 12-04-24,aa419.org,,250,0,0,0,0,1,,unsaved
+06:51:43 12-04-24,guntab.com,,1810,0,0,277,97,0,,unsaved
+06:51:43 12-04-24,petscams.com,,197,0,0,13,4,0,,unsaved
+06:51:43 12-04-24,scam.directory,,100,0,0,17,3,0,,unsaved
+06:51:43 12-04-24,scamadviser.com,,65,0,3,16,5,0,,unsaved
+06:51:43 12-04-24,stopgunscams.com,,75,0,0,4,0,0,,unsaved
+06:57:53 12-04-24,aa419.org,,1,0,0,0,0,1,,unsaved
+06:58:31 12-04-24,aa419.org,,1,0,0,0,0,1,,unsaved
+06:59:28 12-04-24,aa419.org,,1,1,0,0,0,0,,saved
+07:01:49 12-04-24,aa419.org,,250,0,0,0,0,0,,unsaved
+07:01:49 12-04-24,guntab.com,,1810,0,0,277,97,0,,unsaved
+07:01:49 12-04-24,petscams.com,,197,0,0,13,4,0,,unsaved
+07:01:49 12-04-24,scam.directory,,100,0,0,17,3,0,,unsaved
+07:01:49 12-04-24,scamadviser.com,,69,0,3,17,5,0,,unsaved
+07:01:49 12-04-24,stopgunscams.com,,75,0,0,4,0,0,,unsaved
+16:00:35 12-04-24,dnstwist,,118,116,2,0,0,0,,saved
+16:00:35 12-04-24,Regex,,8092,7876,204,0,0,12,,saved
+16:17:52 12-04-24,Regex,,12,12,0,0,0,0,,saved
+16:29:30 12-04-24,aa419.org,,250,3,0,9,0,0,,saved
+16:29:30 12-04-24,dnstwist,,5,5,0,0,0,0,,saved
+16:29:30 12-04-24,guntab.com,,1811,17,0,280,97,0,,saved
+16:29:30 12-04-24,petscams.com,,197,0,0,14,4,0,,saved
+16:29:30 12-04-24,Regex,,204,195,9,0,0,0,,saved
+16:29:30 12-04-24,scam.directory,,100,1,0,18,3,0,,saved
+16:29:30 12-04-24,scamadviser.com,,70,3,3,15,5,0,,saved
+16:29:30 12-04-24,stopgunscams.com,,75,0,0,8,0,0,,saved
+16:29:30 12-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,1,0,1,0,0,10,saved
+16:29:30 12-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",93,2,0,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",100,1,0,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",99,1,0,1,0,0,10,saved
+16:29:30 12-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",91,4,0,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+16:29:30 12-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",41,0,0,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,0,0,2,1,0,5,saved
+16:29:30 12-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",72,1,6,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",61,0,0,0,0,0,7,saved
+16:29:30 12-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,3,0,0,0,0,10,saved
+16:29:30 12-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",39,0,1,2,1,0,5,saved
+16:29:30 12-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",37,1,0,1,0,0,10,saved
+16:29:30 12-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",97,3,0,0,2,0,10,saved
+16:29:30 12-04-24,Google Search,"Your Gateway to Diverse Investments! Discover a world of investment opportunities tailored to meet y...",12,0,0,0,0,0,2,saved
+05:26:10 13-04-24,Manual,,9,9,0,0,0,0,,saved
+05:34:55 13-04-24,Manual,,4,3,0,0,0,1,,saved
+05:52:22 13-04-24,Manual,,1,1,0,0,0,0,,saved
+06:01:46 13-04-24,Manual,,6,5,0,0,0,1,,saved
+06:04:27 13-04-24,Manual,,6,1,0,0,0,0,,saved
+10:03:36 13-04-24,aa419.org,,250,4,0,4,10,0,,saved
+10:03:36 13-04-24,dnstwist,,98,98,0,0,0,0,,saved
+10:03:36 13-04-24,guntab.com,,1811,170,0,138,56,0,,saved
+10:03:36 13-04-24,petscams.com,,197,9,0,6,3,0,,saved
+10:03:36 13-04-24,Regex,,395,394,1,0,0,0,,saved
+10:03:36 13-04-24,scam.directory,,100,8,0,10,3,0,,saved
+10:03:36 13-04-24,scamadviser.com,,70,8,3,8,5,0,,saved
+10:03:36 13-04-24,stopgunscams.com,,75,3,0,0,0,0,,saved
+10:03:36 13-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,0,0,1,0,0,10,saved
+10:03:36 13-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,0,0,1,0,0,10,saved
+10:03:36 13-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",100,1,0,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,1,0,1,0,0,10,saved
+10:03:36 13-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",88,2,0,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:03:36 13-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",41,0,0,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,0,0,2,1,0,5,saved
+10:03:36 13-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",75,0,6,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",61,0,0,0,0,0,7,saved
+10:03:36 13-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,1,0,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,1,0,5,saved
+10:03:36 13-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",35,3,0,0,0,0,10,saved
+10:03:36 13-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",98,3,0,0,1,0,10,saved
+10:03:36 13-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",27,27,0,0,0,0,3,saved
+10:03:36 13-04-24,Google Search,"We have large garment factories in Southeast Asia,With warehouses in many countries,minimize costs,L...",2,1,0,0,0,0,1,saved
+10:03:36 13-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",98,92,0,0,0,1,10,saved
+10:03:36 13-04-24,Google Search,"Since the customs seized a batch of goods, the company is now short of cash flow, so it took out a b...",10,5,0,0,0,1,3,saved
+12:33:49 13-04-24,Google Search,"Since the customs seized a batch of goods, the company is now short of cash flow, so it took out a b...",1,0,1,0,0,0,,unsaved
+12:33:49 13-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",1,0,1,0,0,0,,unsaved
+10:51:23 14-04-24,aa419.org,,250,10,0,5,9,0,,saved
+10:51:23 14-04-24,dnstwist,,22,22,0,0,0,0,,saved
+10:51:23 14-04-24,guntab.com,,1813,0,0,279,93,0,,saved
+10:51:23 14-04-24,petscams.com,,196,26,0,12,4,0,,saved
+10:51:23 14-04-24,Regex,,329,327,2,0,0,0,,saved
+10:51:23 14-04-24,scam.directory,,100,12,0,15,1,0,,saved
+10:51:23 14-04-24,scamadviser.com,,70,0,3,16,5,0,,saved
+10:51:23 14-04-24,stopgunscams.com,,75,0,0,3,0,0,,saved
+10:51:23 14-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,0,0,1,0,0,10,saved
+10:51:23 14-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,1,0,1,0,0,10,saved
+10:51:23 14-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,0,0,0,0,0,10,saved
+10:51:23 14-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,0,0,1,0,0,10,saved
+10:51:23 14-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",92,4,0,0,0,0,10,saved
+10:51:23 14-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:51:23 14-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",41,0,0,0,0,0,10,saved
+10:51:23 14-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,0,0,2,1,0,5,saved
+10:51:23 14-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",72,1,5,0,0,0,10,saved
+10:51:23 14-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",61,0,0,0,0,0,7,saved
+10:51:23 14-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,1,0,0,0,0,10,saved
+10:51:23 14-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",32,0,1,1,1,0,5,saved
+10:51:23 14-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",39,3,0,1,0,0,10,saved
+10:51:23 14-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",99,3,0,0,2,0,10,saved
+10:51:23 14-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",28,1,0,2,3,0,3,saved
+10:51:23 14-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",96,3,1,0,8,0,10,saved
+10:51:23 14-04-24,Google Search,"Since the customs seized a batch of goods, the company is now short of cash flow, so it took out a b...",10,0,1,0,0,0,3,saved
+00:07:00 15-04-24,Manual,,4,3,0,0,0,0,,saved
+03:31:06 15-04-24,Manual,,2,2,0,0,0,0,,saved
+10:03:19 15-04-24,aa419.org,,250,20,0,8,12,0,,saved
+10:03:19 15-04-24,dnstwist,,28,28,0,0,0,0,,saved
+10:03:19 15-04-24,guntab.com,,1813,0,0,283,95,0,,saved
+10:03:19 15-04-24,petscams.com,,167,0,0,9,2,0,,saved
+10:03:19 15-04-24,Regex,,74,74,0,0,0,0,,saved
+10:03:19 15-04-24,scam.directory,,100,0,0,16,63,0,,saved
+10:03:19 15-04-24,scamadviser.com,,70,0,3,16,9,0,,saved
+10:03:19 15-04-24,stopgunscams.com,,75,0,0,3,0,0,,saved
+10:03:19 15-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,1,0,1,0,0,10,saved
+10:03:19 15-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,0,0,1,2,0,10,saved
+10:03:19 15-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,0,0,0,2,0,10,saved
+10:03:19 15-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,3,0,0,2,0,10,saved
+10:03:19 15-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",93,7,0,0,0,0,10,saved
+10:03:19 15-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",44,0,0,0,0,0,5,saved
+10:03:19 15-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",41,0,0,0,0,0,10,saved
+10:03:19 15-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",48,0,0,2,1,0,5,saved
+10:03:19 15-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",73,0,6,0,0,0,10,saved
+10:03:19 15-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",51,0,0,0,1,0,6,saved
+10:03:19 15-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,1,19,0,10,saved
+10:03:19 15-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",38,0,1,2,1,0,5,saved
+10:03:19 15-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",38,1,0,1,2,0,10,saved
+10:03:19 15-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",97,1,0,0,18,0,10,saved
+10:03:19 15-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",28,0,0,2,3,0,3,saved
+10:03:19 15-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",99,4,1,0,13,0,10,saved
+10:03:19 15-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",39,34,0,0,0,1,6,saved
+10:03:19 15-04-24,Google Search,"specializes in creating innovative, user-friendly, and secure mobile applications for businesses loo...",2,2,0,0,0,0,1,saved
+10:03:19 15-04-24,Google Search,"has an efficient team of management professionals who has more than 10 years of experience in the ca...",26,23,0,0,0,0,6,saved
+12:24:23 15-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",1,0,1,0,0,0,,unsaved
+01:48:56 16-04-24,scamadviser.com,,6,0,0,0,0,0,,unsaved
+01:55:27 16-04-24,scamadviser.com,,70,0,3,16,10,0,,unsaved
+09:44:28 16-04-24,Manual,,9,9,0,0,0,0,,saved
+10:03:22 16-04-24,aa419.org,,250,4,0,9,13,0,,saved
+10:03:22 16-04-24,dnstwist,,34,34,0,0,0,0,,saved
+10:03:22 16-04-24,guntab.com,,1814,1,0,285,95,0,,saved
+10:03:22 16-04-24,petscams.com,,164,9,0,9,2,0,,saved
+10:03:22 16-04-24,Regex,,672,671,1,0,0,0,,saved
+10:03:22 16-04-24,scam.directory,,100,25,0,10,51,0,,saved
+10:03:22 16-04-24,scamadviser.com,,63,0,3,16,9,0,,saved
+10:03:22 16-04-24,stopgunscams.com,,75,1,0,4,0,0,,saved
+10:03:22 16-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,1,0,1,0,0,10,saved
+10:03:22 16-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,4,0,1,2,0,10,saved
+10:03:22 16-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,1,0,0,2,0,10,saved
+10:03:22 16-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,5,0,0,3,0,10,saved
+10:03:22 16-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",88,2,0,0,0,0,10,saved
+10:03:22 16-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:03:22 16-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",39,0,0,1,0,0,10,saved
+10:03:22 16-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",48,0,0,2,1,0,5,saved
+10:03:22 16-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",74,1,6,1,0,0,10,saved
+10:03:22 16-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",56,0,0,0,0,0,6,saved
+10:03:22 16-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,0,20,0,10,saved
+10:03:22 16-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",39,0,1,3,1,0,5,saved
+10:03:22 16-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",38,0,0,1,1,0,10,saved
+10:03:22 16-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",86,0,0,0,12,0,10,saved
+10:03:22 16-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",32,4,0,2,3,0,4,saved
+10:03:22 16-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",99,2,1,0,16,0,10,saved
+10:03:22 16-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",41,2,1,1,0,0,6,saved
+10:03:22 16-04-24,Google Search,"has an efficient team of management professionals who has more than 10 years of experience in the ca...",26,0,0,1,0,0,6,saved
+14:17:48 16-04-24,Manual,,6,5,0,0,0,1,,saved
+14:19:04 16-04-24,Manual,,1,1,0,0,0,0,,saved
+14:28:28 16-04-24,Manual,,1,1,0,0,0,0,,saved
+10:03:19 17-04-24,aa419.org,,250,3,0,10,17,0,,saved
+10:03:19 17-04-24,dnstwist,,38,38,0,0,0,0,,saved
+10:03:19 17-04-24,guntab.com,,1814,0,0,284,100,0,,saved
+10:03:19 17-04-24,petscams.com,,165,2,0,12,3,0,,saved
+10:03:19 17-04-24,Regex,,507,484,23,0,0,0,,saved
+10:03:19 17-04-24,scam.directory,,100,0,0,9,73,0,,saved
+10:03:19 17-04-24,scamadviser.com,,65,2,3,16,9,0,,saved
+10:03:19 17-04-24,stopgunscams.com,,75,0,0,4,0,0,,saved
+10:03:19 17-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,1,0,1,0,0,10,saved
+10:03:19 17-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,0,0,1,2,0,10,saved
+10:03:19 17-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",96,1,0,0,2,0,10,saved
+10:03:19 17-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",96,3,0,0,3,0,10,saved
+10:03:19 17-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,11,0,0,0,0,10,saved
+10:03:19 17-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,1,0,0,0,0,5,saved
+10:03:19 17-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,0,0,1,0,0,10,saved
+10:03:19 17-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,0,0,2,1,0,5,saved
+10:03:19 17-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",73,0,6,0,0,0,10,saved
+10:03:19 17-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",55,0,0,0,0,0,6,saved
+10:03:19 17-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,0,18,0,10,saved
+10:03:19 17-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",38,0,1,1,1,0,5,saved
+10:03:19 17-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",37,2,0,1,1,0,10,saved
+10:03:19 17-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",95,2,0,0,15,0,10,saved
+10:03:19 17-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",31,1,0,2,3,0,4,saved
+10:03:19 17-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",99,1,1,0,15,0,10,saved
+10:03:19 17-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",43,1,1,1,0,1,6,saved
+10:03:19 17-04-24,Google Search,"has an efficient team of management professionals who has more than 10 years of experience in the ca...",26,0,0,1,0,0,6,saved
+10:03:19 17-04-24,Google Search,"you are almost done! please complete the last step by click the verify now button below...",2,2,0,0,0,0,1,saved
+10:03:19 17-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",40,38,0,0,0,0,5,saved
+11:44:58 17-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",1,0,1,0,0,0,,unsaved
+13:23:12 17-04-24,Manual,,0,0,0,0,0,0,,error: empty
+13:25:11 17-04-24,Manual,,6,6,0,0,0,0,,saved
+07:46:22 18-04-24,PhishStats,,17722,17514,5,29,1,14,,saved
+07:46:22 18-04-24,PhishStats (NRDs),,1534,1534,0,0,0,0,,saved
+07:58:09 18-04-24,PhishStats,,14,13,1,0,0,0,,saved
+10:03:30 18-04-24,aa419.org,,250,7,0,11,17,0,,saved
+10:03:30 18-04-24,dnstwist,,75,75,0,0,0,0,,saved
+10:03:30 18-04-24,guntab.com,,1814,104,0,187,90,0,,saved
+10:03:30 18-04-24,petscams.com,,225,3,0,17,5,0,,saved
+10:03:30 18-04-24,PhishStats,,17722,39,2,2926,1,0,,saved
+10:03:30 18-04-24,PhishStats (NRDs),,15,15,0,0,0,0,,saved
+10:03:30 18-04-24,Regex,,517,493,24,0,0,0,,saved
+10:03:30 18-04-24,scam.directory,,100,34,0,4,55,0,,saved
+10:03:30 18-04-24,scamadviser.com,,65,7,3,9,9,0,,saved
+10:03:30 18-04-24,stopgunscams.com,,75,0,0,3,0,0,,saved
+10:03:30 18-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,0,0,1,0,0,10,saved
+10:03:30 18-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,0,0,1,2,0,10,saved
+10:03:30 18-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,0,0,0,2,0,10,saved
+10:03:30 18-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",98,1,0,0,1,0,10,saved
+10:03:30 18-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",96,4,0,0,1,0,10,saved
+10:03:30 18-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,0,0,0,0,0,5,saved
+10:03:30 18-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",39,0,0,1,1,0,10,saved
+10:03:30 18-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",47,1,0,1,1,0,5,saved
+10:03:30 18-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",71,0,5,0,0,0,10,saved
+10:03:30 18-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",55,0,0,0,0,0,6,saved
+10:03:30 18-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",93,20,0,0,13,0,10,saved
+10:03:30 18-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",35,1,1,0,0,0,5,saved
+10:03:30 18-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",40,0,0,1,2,0,10,saved
+10:03:30 18-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",97,4,0,0,18,0,10,saved
+10:03:30 18-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",33,2,0,2,3,0,4,saved
+10:03:30 18-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",93,1,1,0,13,0,10,saved
+10:03:30 18-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",42,0,2,2,1,0,6,saved
+10:03:30 18-04-24,Google Search,"has an efficient team of management professionals who has more than 10 years of experience in the ca...",26,0,0,1,0,0,6,saved
+10:03:30 18-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",30,1,0,2,6,0,4,saved
+10:03:30 18-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",99,94,0,1,0,1,10,saved
+10:03:30 18-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",99,97,0,0,0,0,10,saved
+10:23:40 18-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",1,0,0,0,0,1,,unsaved
+13:35:55 18-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",1,0,1,0,0,0,,unsaved
+14:22:08 18-04-24,Manual,,0,0,0,0,0,0,,error: empty
+14:24:23 18-04-24,Manual,,1,1,0,0,0,0,,saved
+14:28:41 18-04-24,Manual,,1,1,0,0,0,0,,saved
+15:00:35 18-04-24,Manual,,0,0,0,0,0,0,,error: empty
+16:38:17 18-04-24,scamadviser.com,,7,0,1,1,0,0,,unsaved
+16:40:38 18-04-24,scamadviser.com,,65,0,3,16,9,0,,unsaved
+16:54:40 18-04-24,Manual,,1,1,0,0,0,0,,saved
+18:09:06 18-04-24,Manual,,1,0,1,0,0,0,,unsaved
+18:11:33 18-04-24,Manual,,1,0,1,0,0,0,,unsaved
+18:16:30 18-04-24,Manual,,1,0,1,0,0,0,,unsaved
+19:38:09 18-04-24,Manual,,1,1,0,0,0,0,,saved
+19:45:22 18-04-24,Manual,,1,0,1,0,0,0,,unsaved
+19:46:22 18-04-24,Manual,,1,0,1,0,0,0,,unsaved
+23:18:41 18-04-24,guntab.com,,1814,0,0,291,106,0,,saved
+23:18:41 18-04-24,petscams.com,,222,3,0,20,6,0,,saved
+23:18:41 18-04-24,scam.directory,,100,3,0,7,78,0,,saved
+23:18:41 18-04-24,scamadviser.com,,65,0,3,16,9,0,,saved
+23:18:41 18-04-24,stopgunscams.com,,0,0,0,0,0,0,,error: empty
+23:32:45 18-04-24,guntab.com,,1814,0,0,291,106,0,,unsaved
+23:32:45 18-04-24,petscams.com,,219,0,0,19,6,0,,unsaved
+23:32:45 18-04-24,scam.directory,,100,0,0,7,78,0,,unsaved
+23:32:45 18-04-24,scamadviser.com,,65,0,3,16,9,0,,unsaved
+23:32:45 18-04-24,stopgunscams.com,,0,0,0,0,0,0,,error: empty
+01:26:33 19-04-24,guntab.com,,1814,0,0,291,106,0,,saved
+01:26:33 19-04-24,petscams.com,,225,0,0,20,6,0,,saved
+01:26:33 19-04-24,scam.directory,,0,0,0,0,0,0,,error: empty
+01:26:33 19-04-24,scamadviser.com,,78,5,3,16,11,0,,saved
+01:26:33 19-04-24,stopgunscams.com,,0,0,0,0,0,0,,error: empty
+01:29:56 19-04-24,guntab.com,,1814,0,0,291,106,0,,unsaved
+01:29:56 19-04-24,petscams.com,,222,0,0,20,6,0,,unsaved
+01:29:56 19-04-24,scam.directory,,100,0,0,7,78,0,,unsaved
+01:29:56 19-04-24,scamadviser.com,,78,0,3,16,11,0,,unsaved
+01:29:56 19-04-24,stopgunscams.com,,0,0,0,0,0,0,,error: empty
+01:36:55 19-04-24,aa419.org,,250,2,0,10,18,0,,saved
+01:36:55 19-04-24,guntab.com,,1814,0,0,291,106,0,,saved
+01:36:55 19-04-24,petscams.com,,225,0,0,20,6,0,,saved
+01:36:55 19-04-24,scam.directory,,100,0,0,7,78,0,,saved
+01:36:55 19-04-24,scamadviser.com,,78,0,3,16,11,0,,saved
+01:36:55 19-04-24,stopgunscams.com,,0,0,0,0,0,0,,error: empty
+01:40:58 19-04-24,scamadviser.com,,78,0,3,16,11,0,,unsaved
+07:39:11 19-04-24,Manual,,0,0,0,0,0,0,,error: empty
+07:42:46 19-04-24,Manual,,1,0,0,0,0,1,,unsaved
+07:47:34 19-04-24,Manual,,1,1,0,0,0,0,,saved
+10:04:14 19-04-24,aa419.org,,250,0,0,10,18,0,,saved
+10:04:14 19-04-24,dnstwist,,19,19,0,0,0,0,,saved
+10:04:14 19-04-24,guntab.com,,1814,0,0,291,106,0,,saved
+10:04:14 19-04-24,petscams.com,,216,0,0,18,6,0,,saved
+10:04:14 19-04-24,PhishStats,,17309,590,2,2786,435,1,,saved
+10:04:14 19-04-24,PhishStats (NRDs),,20,20,0,0,0,0,,saved
+10:04:14 19-04-24,Regex,,353,328,25,0,0,0,,saved
+10:04:14 19-04-24,scam.directory,,100,0,0,7,78,0,,saved
+10:04:14 19-04-24,scamadviser.com,,78,0,3,16,11,0,,saved
+10:04:14 19-04-24,stopgunscams.com,,100,0,0,5,1,0,,saved
+10:04:14 19-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",94,1,0,0,0,0,10,saved
+10:04:14 19-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,4,0,0,3,0,10,saved
+10:04:14 19-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,4,0,0,2,0,10,saved
+10:04:14 19-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,1,0,0,2,0,10,saved
+10:04:14 19-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,2,0,0,1,0,10,saved
+10:04:14 19-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:04:14 19-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,0,0,1,1,0,10,saved
+10:04:14 19-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",46,0,0,2,0,0,5,saved
+10:04:14 19-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",74,2,4,0,0,0,10,saved
+10:04:14 19-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",56,0,0,0,0,0,6,saved
+10:04:14 19-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,3,0,0,17,0,10,saved
+10:04:14 19-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",39,1,1,1,0,0,5,saved
+10:04:14 19-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",37,1,0,0,0,0,10,saved
+10:04:14 19-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",90,2,0,0,13,0,10,saved
+10:04:14 19-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",32,0,0,2,3,0,4,saved
+10:04:14 19-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",92,1,1,0,12,0,10,saved
+10:04:14 19-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",41,0,2,1,1,0,6,saved
+10:04:14 19-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",31,1,0,3,6,0,4,saved
+10:04:14 19-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,1,1,5,4,0,10,saved
+10:04:14 19-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",99,2,0,4,4,0,10,saved
+10:04:14 19-04-24,Google Search,"The success of online selling largely depends on the platform you’re using. Are you selling in a pla...",2,0,0,0,0,1,1,saved
+12:36:49 19-04-24,PhishStats,,1,1,0,0,0,0,,saved
+12:54:19 19-04-24,Manual,,17,16,0,0,0,1,,saved
+12:55:45 19-04-24,Manual,,1,1,0,0,0,0,,saved
+17:08:00 19-04-24,Manual,,11,11,0,0,0,0,,saved
+10:04:14 20-04-24,aa419.org,,250,5,0,8,17,0,,saved
+10:04:14 20-04-24,dnstwist,,24,24,0,0,0,0,,saved
+10:04:14 20-04-24,guntab.com,,1814,0,0,290,111,0,,saved
+10:04:14 20-04-24,petscams.com,,212,2,0,18,5,0,,saved
+10:04:14 20-04-24,PhishStats,,17608,660,3,2908,464,4,,saved
+10:04:14 20-04-24,PhishStats (NRDs),,26,26,0,0,0,0,,saved
+10:04:14 20-04-24,Regex,,341,315,26,0,0,0,,saved
+10:04:14 20-04-24,scam.directory,,100,0,0,8,80,0,,saved
+10:04:14 20-04-24,scamadviser.com,,78,0,3,20,11,0,,saved
+10:04:14 20-04-24,stopgunscams.com,,100,0,0,5,1,0,,saved
+10:04:14 20-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,5,0,1,0,0,10,saved
+10:04:14 20-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,3,0,0,3,0,10,saved
+10:04:14 20-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,1,0,0,2,0,10,saved
+10:04:14 20-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,7,0,0,2,0,10,saved
+10:04:14 20-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,5,0,0,1,0,10,saved
+10:04:14 20-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,0,0,0,0,0,5,saved
+10:04:14 20-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,0,0,1,1,0,10,saved
+10:04:14 20-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,0,0,2,0,0,5,saved
+10:04:14 20-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",73,0,5,0,0,0,10,saved
+10:04:14 20-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",56,0,0,0,0,0,6,saved
+10:04:14 20-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",91,4,0,0,15,0,10,saved
+10:04:14 20-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",38,0,1,1,0,0,5,saved
+10:04:14 20-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",35,2,0,1,1,0,10,saved
+10:04:14 20-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",100,0,0,0,18,0,10,saved
+10:04:14 20-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",32,0,0,2,3,0,4,saved
+10:04:14 20-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",96,2,1,0,13,0,10,saved
+10:04:14 20-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",41,0,2,2,1,0,6,saved
+10:04:14 20-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",36,3,0,3,7,0,4,saved
+10:04:14 20-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,0,1,5,4,0,10,saved
+10:04:14 20-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",99,0,0,4,4,0,10,saved
+10:04:14 20-04-24,Google Search,"was established by a group of blockchain enthusiasts with a goal of providing complete financial ser...",4,3,0,0,0,1,1,saved
+10:04:14 20-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,91,0,0,0,0,10,saved
+12:46:31 20-04-24,PhishStats,,4,4,0,0,0,0,,saved
+17:12:30 20-04-24,Manual,,1,1,0,0,0,0,,saved
+17:24:26 20-04-24,Manual,,4,3,0,0,0,0,,saved
+19:58:52 20-04-24,Manual,,2,2,0,0,0,0,,saved
+10:07:24 21-04-24,aa419.org,,250,6,0,8,17,0,,saved
+10:07:24 21-04-24,Emerging Threats,,643,633,0,0,0,8,,saved
+10:07:24 21-04-24,dnstwist,,19,19,0,0,0,0,,saved
+10:07:24 21-04-24,guntab.com,,1813,0,0,288,114,0,,saved
+10:07:24 21-04-24,petscams.com,,217,0,0,19,5,0,,saved
+10:07:24 21-04-24,PhishStats,,17047,452,3,2939,476,4,,saved
+10:07:24 21-04-24,PhishStats (NRDs),,20,20,0,0,0,0,,saved
+10:07:24 21-04-24,Regex,,260,234,26,0,0,0,,saved
+10:07:24 21-04-24,scam.directory,,100,0,0,8,80,0,,saved
+10:07:24 21-04-24,scamadviser.com,,78,0,3,20,10,0,,saved
+10:07:24 21-04-24,stopgunscams.com,,100,0,0,5,1,0,,saved
+10:07:24 21-04-24,Google Search,"...",11,9,0,0,0,1,2,saved
+12:28:25 21-04-24,Emerging Threats,,8,4,4,0,0,0,,saved
+12:28:25 21-04-24,PhishStats,,4,4,0,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,1,0,2,1,0,,saved
+12:28:25 21-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,3,0,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",96,2,0,0,18,0,,saved
+12:28:25 21-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,1,0,0,3,0,,saved
+12:28:25 21-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,5,0,0,3,0,,saved
+12:28:25 21-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,0,0,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,0,18,0,,saved
+12:28:25 21-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",69,0,6,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",33,3,0,1,3,0,,saved
+12:28:25 21-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",35,0,0,2,6,0,,saved
+12:28:25 21-04-24,Google Search,"We are an IT company which deals in complete IT solutions right from development to deployment. We a...",1,0,1,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,3,0,0,3,0,,saved
+12:28:25 21-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",38,0,1,1,0,0,,saved
+12:28:25 21-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",99,1,0,4,3,0,,saved
+12:28:25 21-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,0,0,1,1,0,,saved
+12:28:25 21-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,1,0,1,0,0,,saved
+12:28:25 21-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",40,0,2,2,1,0,,saved
+12:28:25 21-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",59,0,0,0,0,0,,saved
+12:28:25 21-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",96,3,1,0,13,0,,saved
+12:28:25 21-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,0,0,0,3,0,,saved
+12:28:25 21-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,1,1,5,3,0,,saved
+12:28:25 21-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",25,0,0,0,0,0,,saved
+19:04:59 21-04-24,Manual,,1,1,0,0,0,0,,saved
+10:08:06 22-04-24,aa419.org,,250,8,0,8,17,1,,saved
+10:08:06 22-04-24,Emerging Threats,,381,0,0,257,5,0,,saved
+10:08:06 22-04-24,dnstwist,,18,18,0,0,0,0,,saved
+10:08:06 22-04-24,guntab.com,,1813,0,0,284,123,0,,saved
+10:08:06 22-04-24,petscams.com,,211,9,0,19,5,0,,saved
+10:08:06 22-04-24,PhishStats,,16829,357,7,2973,493,2,,saved
+10:08:06 22-04-24,PhishStats (NRDs),,12,12,0,0,0,0,,saved
+10:08:06 22-04-24,Regex,,447,422,25,0,0,0,,saved
+10:08:06 22-04-24,scam.directory,,100,0,0,8,80,0,,saved
+10:08:06 22-04-24,scamadviser.com,,79,1,3,20,10,0,,saved
+10:08:06 22-04-24,stopgunscams.com,,100,0,0,5,0,0,,saved
+10:08:06 22-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,2,0,1,0,0,10,saved
+10:08:06 22-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,0,0,0,4,0,10,saved
+10:08:06 22-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,2,0,0,3,0,10,saved
+10:08:06 22-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,1,0,0,3,0,10,saved
+10:08:06 22-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,1,0,0,0,0,10,saved
+10:08:06 22-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:08:06 22-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,1,0,1,1,0,9,saved
+10:08:06 22-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,0,0,2,1,0,5,saved
+10:08:06 22-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",76,1,5,0,0,0,10,saved
+10:08:06 22-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",60,0,0,0,0,0,7,saved
+10:08:06 22-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,0,18,0,10,saved
+10:08:06 22-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,0,0,5,saved
+10:08:06 22-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",34,1,0,0,0,0,10,saved
+10:08:06 22-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",100,1,0,0,18,0,10,saved
+10:08:06 22-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",37,3,0,1,3,0,4,saved
+10:08:06 22-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",97,1,1,0,14,0,10,saved
+10:08:06 22-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",38,1,2,2,1,0,6,saved
+10:08:06 22-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",33,1,0,2,6,0,4,saved
+10:08:06 22-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",95,0,1,4,3,0,10,saved
+10:08:06 22-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",93,1,0,4,3,0,10,saved
+10:08:06 22-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",90,4,0,0,4,0,10,saved
+10:08:06 22-04-24,Google Search,"We are an IT company which deals in complete IT solutions right from development to deployment. We a...",11,0,1,3,0,0,2,saved
+16:51:23 22-04-24,Manual,,65,65,0,0,0,0,,saved
+16:51:23 22-04-24,aa419.org,,1,0,0,0,0,1,,saved
+16:51:23 22-04-24,PhishStats,,2,2,0,0,0,0,,saved
+16:53:17 22-04-24,aa419.org,,1,1,0,0,0,0,,saved
+06:04:29 23-04-24,fakewebsitebuster.com,,0,0,0,0,0,0,,error: empty
+06:06:28 23-04-24,fakewebsitebuster.com,,347,333,0,0,0,12,,saved
+06:46:25 23-04-24,fakewebsitebuster.com,,12,8,3,0,0,1,,saved
+06:48:24 23-04-24,fakewebsitebuster.com,,1,0,1,0,0,0,,unsaved
+06:57:37 23-04-24,fakewebsitebuster.com,,50,50,0,0,0,0,,saved
+10:05:06 23-04-24,aa419.org,,250,28,0,4,15,0,,saved
+10:05:06 23-04-24,Emerging Threats,,381,0,0,261,5,0,,saved
+10:05:06 23-04-24,fakewebsitebuster.com,,50,0,0,0,0,0,,saved
+10:05:06 23-04-24,dnstwist,,14,14,0,0,0,0,,saved
+10:05:06 23-04-24,guntab.com,,1814,0,0,295,123,0,,saved
+10:05:06 23-04-24,petscams.com,,214,1,0,19,5,0,,saved
+10:05:06 23-04-24,PhishStats,,16614,272,4,2924,519,1,,saved
+10:05:06 23-04-24,PhishStats (NRDs),,24,24,0,0,0,0,,saved
+10:05:06 23-04-24,Regex,,292,266,25,0,0,1,,saved
+10:05:06 23-04-24,scam.directory,,100,0,0,8,80,0,,saved
+10:05:06 23-04-24,scamadviser.com,,80,1,3,20,11,0,,saved
+10:05:06 23-04-24,stopgunscams.com,,100,0,0,5,0,0,,saved
+10:05:06 23-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,0,0,1,0,0,10,saved
+10:05:06 23-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",97,0,0,0,4,0,10,saved
+10:05:06 23-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",97,1,0,0,3,0,10,saved
+10:05:06 23-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",99,1,0,0,3,0,10,saved
+10:05:06 23-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",91,1,0,1,1,0,10,saved
+10:05:06 23-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",45,0,0,0,0,0,5,saved
+10:05:06 23-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",37,0,0,1,1,0,9,saved
+10:05:06 23-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,0,0,2,1,0,5,saved
+10:05:06 23-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",70,1,5,1,0,0,10,saved
+10:05:06 23-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",60,0,0,0,0,0,7,saved
+10:05:06 23-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,2,0,0,19,0,10,saved
+10:05:06 23-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,0,0,5,saved
+10:05:06 23-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",34,2,0,1,1,0,10,saved
+10:05:06 23-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",100,2,0,0,19,0,10,saved
+10:05:06 23-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",37,1,0,1,3,0,4,saved
+10:05:06 23-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",89,1,0,0,14,0,10,saved
+10:05:06 23-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",39,0,2,2,1,0,6,saved
+10:05:06 23-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",35,2,0,2,6,0,4,saved
+10:05:06 23-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,1,1,5,4,0,10,saved
+10:05:06 23-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",97,0,0,4,4,0,10,saved
+10:05:06 23-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",90,0,0,0,3,0,10,saved
+10:05:06 23-04-24,Google Search,"is an online platform that handles the logistical side of eCommerce and empowers sellers to focus on...",0,0,0,0,0,0,1,error: empty
+14:38:38 23-04-24,PhishStats,,1,1,0,0,0,0,,saved
+14:38:38 23-04-24,Regex,,1,1,0,0,0,0,,saved
+10:11:53 24-04-24,aa419.org,,250,15,0,7,14,0,,saved
+10:11:53 24-04-24,Emerging Threats,,381,0,0,262,6,0,,saved
+10:11:53 24-04-24,fakewebsitebuster.com,,50,0,0,26,4,0,,saved
+10:11:53 24-04-24,dnstwist,,35,35,0,0,0,0,,saved
+10:11:53 24-04-24,guntab.com,,1814,3,0,280,111,0,,saved
+10:11:53 24-04-24,petscams.com,,225,1,0,14,5,0,,saved
+10:11:53 24-04-24,PhishStats,,16873,541,4,2977,532,2,,saved
+10:11:53 24-04-24,PhishStats (NRDs),,37,37,0,0,0,0,,saved
+10:11:53 24-04-24,Regex,,473,448,25,0,0,0,,saved
+10:11:53 24-04-24,scam.directory,,100,48,0,3,42,0,,saved
+10:11:53 24-04-24,scamadviser.com,,73,0,2,19,12,0,,saved
+10:11:53 24-04-24,stopgunscams.com,,100,0,0,5,0,0,,saved
+10:11:53 24-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,1,0,0,0,0,10,saved
+10:11:53 24-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",97,0,0,0,4,0,10,saved
+10:11:53 24-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",97,0,0,0,3,0,10,saved
+10:11:53 24-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",98,0,0,0,2,0,10,saved
+10:11:53 24-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,4,0,1,1,0,10,saved
+10:11:53 24-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,0,0,0,0,0,5,saved
+10:11:53 24-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",37,0,0,1,2,0,9,saved
+10:11:53 24-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",50,1,0,2,0,0,6,saved
+10:11:53 24-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",73,0,4,0,0,0,10,saved
+10:11:53 24-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",61,0,0,0,0,0,7,saved
+10:11:53 24-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,1,0,0,20,0,10,saved
+10:11:53 24-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,0,0,5,saved
+10:11:53 24-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",31,1,0,0,2,0,10,saved
+10:11:53 24-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",97,0,0,0,19,0,10,saved
+10:11:53 24-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",35,1,0,2,4,0,4,saved
+10:11:53 24-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",94,2,2,0,15,0,10,saved
+10:11:53 24-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",39,0,2,1,1,0,6,saved
+10:11:53 24-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",34,2,0,2,6,0,4,saved
+10:11:53 24-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,1,1,4,4,0,10,saved
+10:11:53 24-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",99,6,0,3,4,0,10,saved
+10:11:53 24-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,3,0,0,2,0,10,saved
+10:11:53 24-04-24,Google Search,"is an online platform that handles the logistical side of eCommerce and empowers sellers to focus on...",0,0,0,0,0,0,1,error: empty
+13:32:33 24-04-24,PhishStats,,2,2,0,0,0,0,,saved
+17:29:32 24-04-24,Manual,,1,1,0,0,0,0,,saved
+03:12:52 25-04-24,Manual,,3,3,0,0,0,0,,saved
+10:04:47 25-04-24,aa419.org,,250,11,0,7,17,0,,saved
+10:04:47 25-04-24,Emerging Threats,,381,0,0,261,7,0,,saved
+10:04:47 25-04-24,fakewebsitebuster.com,,50,0,0,25,5,0,,saved
+10:04:47 25-04-24,dnstwist,,57,57,0,0,0,0,,saved
+10:04:47 25-04-24,guntab.com,,1815,6,0,287,113,0,,saved
+10:04:47 25-04-24,petscams.com,,223,0,0,24,6,0,,saved
+10:04:47 25-04-24,PhishStats,,17274,737,5,3076,543,2,,saved
+10:04:47 25-04-24,PhishStats (NRDs),,35,35,0,0,0,0,,saved
+10:04:47 25-04-24,Regex,,421,397,24,0,0,0,,saved
+10:04:47 25-04-24,scam.directory,,100,0,0,4,74,0,,saved
+10:04:47 25-04-24,scamadviser.com,,80,0,3,20,12,0,,saved
+10:04:47 25-04-24,stopgunscams.com,,100,0,0,6,0,0,,saved
+10:04:47 25-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,0,0,0,0,0,10,saved
+10:04:47 25-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",97,1,0,0,4,0,10,saved
+10:04:47 25-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",99,2,0,0,3,0,10,saved
+10:04:47 25-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",99,1,0,0,2,0,10,saved
+10:04:47 25-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",92,1,0,0,1,0,10,saved
+10:04:47 25-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",46,0,0,0,0,0,5,saved
+10:04:47 25-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",36,0,0,1,1,0,10,saved
+10:04:47 25-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,1,0,1,3,0,5,saved
+10:04:47 25-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",75,0,4,0,0,0,10,saved
+10:04:47 25-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",61,0,0,0,0,0,7,saved
+10:04:47 25-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",99,19,0,0,13,0,10,saved
+10:04:47 25-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",41,0,1,1,0,0,5,saved
+10:04:47 25-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",37,1,0,0,3,0,10,saved
+10:04:47 25-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",100,1,0,0,21,0,10,saved
+10:04:47 25-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",29,0,0,2,2,0,4,saved
+10:04:47 25-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",98,1,2,0,16,0,10,saved
+10:04:47 25-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",42,1,2,2,1,0,6,saved
+10:04:47 25-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",36,1,0,4,6,0,4,saved
+10:04:47 25-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",97,2,1,5,5,0,10,saved
+10:04:47 25-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",100,2,0,4,6,0,10,saved
+10:04:47 25-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,2,0,0,2,0,10,saved
+13:27:15 25-04-24,PhishStats,,2,2,0,0,0,0,,saved
+13:33:36 25-04-24,Manual,,3,3,0,0,0,0,,saved
+19:53:04 25-04-24,Manual,,118,105,0,0,0,13,,saved
+23:22:46 25-04-24,Manual,,7,7,0,0,0,0,,saved
+07:49:52 26-04-24,Manual,,10,10,0,0,0,0,,saved
+10:08:33 26-04-24,aa419.org,,250,5,0,9,16,0,,saved
+10:08:33 26-04-24,Emerging Threats,,381,0,0,256,6,0,,saved
+10:08:33 26-04-24,fakewebsitebuster.com,,0,0,0,0,0,0,,error: empty
+10:08:33 26-04-24,dnstwist,,39,39,0,0,0,0,,saved
+10:08:33 26-04-24,guntab.com,,1823,24,0,286,108,0,,saved
+10:08:33 26-04-24,petscams.com,,224,0,0,26,6,0,,saved
+10:08:33 26-04-24,PhishStats,,17406,572,2,3235,566,0,,saved
+10:08:33 26-04-24,PhishStats (NRDs),,61,61,0,0,0,0,,saved
+10:08:33 26-04-24,Regex,,583,559,24,0,0,0,,saved
+10:08:33 26-04-24,scam.directory,,100,0,0,4,74,0,,saved
+10:08:33 26-04-24,scamadviser.com,,80,1,3,19,11,0,,saved
+10:08:33 26-04-24,stopgunscams.com,,100,0,0,6,0,0,,saved
+10:08:33 26-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",100,2,0,0,0,0,10,saved
+10:08:33 26-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",99,1,0,0,3,0,10,saved
+10:08:33 26-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",100,0,0,0,2,0,10,saved
+10:08:33 26-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",100,2,0,0,3,0,10,saved
+10:08:33 26-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",89,9,0,0,0,0,10,saved
+10:08:33 26-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",47,0,0,0,0,0,5,saved
+10:08:33 26-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",37,1,0,1,0,0,9,saved
+10:08:33 26-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",49,0,0,2,4,0,5,saved
+10:08:33 26-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",78,1,4,0,0,0,10,saved
+10:08:33 26-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",62,1,0,5,0,0,7,saved
+10:08:33 26-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",100,0,0,0,18,0,10,saved
+10:08:33 26-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",41,0,1,1,0,0,5,saved
+10:08:33 26-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",35,0,0,0,3,0,10,saved
+10:08:33 26-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",99,1,0,0,20,0,10,saved
+10:08:33 26-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",29,1,0,2,1,0,4,saved
+10:08:33 26-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",98,3,2,0,17,0,10,saved
+10:08:33 26-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",43,1,2,2,1,0,6,saved
+10:08:33 26-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",38,2,0,4,6,0,5,saved
+10:08:33 26-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,1,1,12,8,0,10,saved
+10:08:33 26-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",100,0,0,11,9,0,10,saved
+10:08:33 26-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,2,0,0,3,0,10,saved
+10:08:33 26-04-24,Google Search,"share of the global digital asset trading market within 1 year. Very recently in 2021 at the Crypto ...",9,8,0,0,0,0,1,saved
+05:14:34 27-04-24,Manual,,1,1,0,0,0,0,,saved
+10:08:32 27-04-24,aa419.org,,250,6,0,8,15,0,,saved
+10:08:32 27-04-24,Emerging Threats,,381,0,0,257,8,0,,saved
+10:08:32 27-04-24,fakewebsitebuster.com,,43,0,0,18,4,0,,saved
+10:08:32 27-04-24,dnstwist,,52,52,0,0,0,0,,saved
+10:08:32 27-04-24,guntab.com,,1932,14,0,294,120,0,,saved
+10:08:32 27-04-24,petscams.com,,223,0,0,26,7,0,,saved
+10:08:32 27-04-24,PhishStats,,17510,473,2,3381,566,0,,saved
+10:08:32 27-04-24,PhishStats (NRDs),,29,29,0,0,0,0,,saved
+10:08:32 27-04-24,Regex,,644,620,24,0,0,0,,saved
+10:08:32 27-04-24,scam.directory,,100,8,0,6,64,0,,saved
+10:08:32 27-04-24,scamadviser.com,,95,0,3,19,11,0,,saved
+10:08:32 27-04-24,stopgunscams.com,,100,10,0,3,0,0,,saved
+10:08:32 27-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,0,0,0,0,0,10,saved
+10:08:32 27-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",96,0,0,0,3,0,10,saved
+10:08:32 27-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",100,1,0,0,1,0,10,saved
+10:08:32 27-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",98,4,0,0,3,0,10,saved
+10:08:32 27-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",88,1,0,0,0,0,10,saved
+10:08:32 27-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",47,0,0,0,0,0,5,saved
+10:08:32 27-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",37,0,0,1,0,0,9,saved
+10:08:32 27-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",50,0,0,2,5,0,6,saved
+10:08:32 27-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",76,1,5,0,0,0,10,saved
+10:08:32 27-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",62,0,0,6,0,0,7,saved
+10:08:32 27-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",98,2,0,0,18,0,10,saved
+10:08:32 27-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,0,0,5,saved
+10:08:32 27-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",33,2,0,0,3,0,10,saved
+10:08:32 27-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",99,0,0,0,22,0,10,saved
+10:08:32 27-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",33,2,0,2,2,0,4,saved
+10:08:32 27-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",98,1,2,0,16,0,10,saved
+10:08:32 27-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",42,0,2,2,1,0,6,saved
+10:08:32 27-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",33,1,0,3,5,0,4,saved
+10:08:32 27-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",98,0,1,16,10,0,10,saved
+10:08:32 27-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",100,0,0,16,11,0,10,saved
+10:08:32 27-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",91,1,0,0,3,0,10,saved
+15:22:57 27-04-24,fakewebsitebuster.com,,47,0,0,23,3,0,,saved
+15:22:57 27-04-24,Jeroengui phishing,,7092,4821,2,281,64,11,,saved
+15:22:57 27-04-24,Jeroengui scam,,337,293,0,2,1,1,,saved
+15:22:57 27-04-24,scamadviser.com,,79,8,3,11,10,0,,saved
+15:37:53 27-04-24,fakewebsitebuster.com,,1,0,1,0,0,0,,saved
+15:37:53 27-04-24,Jeroengui phishing,,11,10,1,0,0,0,,saved
+15:37:53 27-04-24,Jeroengui scam,,1,1,0,0,0,0,,saved
+15:42:56 27-04-24,Jeroengui phishing,,7092,0,3,281,64,0,,unsaved
+15:42:56 27-04-24,Jeroengui scam,,144,0,0,0,0,0,,unsaved
+00:44:31 28-04-24,Manual,,4,4,0,0,0,0,,saved
+00:46:13 28-04-24,Manual,,5,1,0,0,0,0,,saved
+07:50:41 28-04-24,Manual,,5,5,0,0,0,0,,saved
+10:08:38 28-04-24,aa419.org,,250,16,0,5,17,0,,saved
+10:08:38 28-04-24,dnstwist,,43,43,0,0,0,0,,saved
+10:08:38 28-04-24,Emerging Threats,,381,0,0,256,4,0,,saved
+10:08:38 28-04-24,fakewebsitebuster.com,,47,0,1,23,4,0,,saved
+10:08:38 28-04-24,guntab.com,,1850,149,0,161,115,0,,saved
+10:08:38 28-04-24,Jeroengui daily,,0,0,0,0,0,0,,error: empty
+10:08:38 28-04-24,Jeroengui weekly,,0,0,0,0,0,0,,error: empty
+10:08:38 28-04-24,petscams.com,,224,20,0,18,7,0,,saved
+10:08:38 28-04-24,PhishStats,,17487,271,1,3437,568,0,,saved
+10:08:38 28-04-24,PhishStats (NRDs),,11,11,0,0,0,0,,saved
+10:08:38 28-04-24,Regex,,741,717,24,0,0,0,,saved
+10:08:38 28-04-24,scamadviser.com,,79,0,3,19,10,0,,saved
+10:08:38 28-04-24,scam.directory,,100,64,0,3,23,0,,saved
+10:08:38 28-04-24,stopgunscams.com,,100,3,0,0,3,0,,saved
+10:08:38 28-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",99,0,0,0,0,0,10,saved
+10:08:38 28-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",98,1,1,0,3,0,10,saved
+10:08:38 28-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",98,0,0,0,2,0,10,saved
+10:08:38 28-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",81,4,0,0,1,0,10,saved
+10:08:38 28-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",96,1,0,0,1,0,10,saved
+10:08:38 28-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",47,0,0,0,0,0,5,saved
+10:08:38 28-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",38,2,0,0,0,0,10,saved
+10:08:38 28-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",51,1,0,2,5,0,6,saved
+10:08:38 28-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",75,0,4,0,0,0,10,saved
+10:08:38 28-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",62,0,0,7,1,0,7,saved
+10:08:38 28-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",99,0,0,0,18,0,10,saved
+10:08:38 28-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",40,0,1,1,0,0,5,saved
+10:08:38 28-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",30,2,0,0,3,0,10,saved
+10:08:38 28-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",99,1,0,0,21,0,10,saved
+10:08:38 28-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",32,2,0,1,1,0,4,saved
+10:08:38 28-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",98,2,2,0,15,0,10,saved
+10:08:38 28-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",43,1,2,2,0,0,6,saved
+10:08:38 28-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",32,1,0,3,5,0,4,saved
+10:08:38 28-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",96,0,1,18,12,0,10,saved
+10:08:38 28-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",98,1,0,17,12,0,10,saved
+10:08:38 28-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",89,1,0,0,3,0,10,saved
+13:06:27 28-04-24,Jeroengui daily,,953,574,2,8,11,0,,saved
+13:06:27 28-04-24,Jeroengui weekly,,7312,590,5,797,297,0,,saved
+13:13:06 28-04-24,Manual,,2,2,0,0,0,0,,saved
+23:20:54 28-04-24,Manual,,9,8,0,0,0,0,,saved
+10:07:29 29-04-24,aa419.org,,250,6,0,7,16,0,,saved
+10:07:29 29-04-24,dnstwist,,40,40,0,0,0,0,,saved
+10:07:29 29-04-24,Emerging Threats,,381,0,0,255,6,0,,saved
+10:07:29 29-04-24,fakewebsitebuster.com,,47,0,1,25,4,0,,saved
+10:07:29 29-04-24,guntab.com,,1853,6,0,292,114,0,,saved
+10:07:29 29-04-24,Jeroengui daily,,938,817,0,0,1,1,,saved
+10:07:29 29-04-24,Jeroengui weekly,,7369,820,2,704,274,1,,saved
+10:07:29 29-04-24,petscams.com,,223,8,0,27,7,0,,saved
+10:07:29 29-04-24,PhishStats,,17452,959,1,2915,568,0,,saved
+10:07:29 29-04-24,PhishStats (NRDs),,146,146,0,0,0,0,,saved
+10:07:29 29-04-24,Regex,,440,417,23,0,0,0,,saved
+10:07:29 29-04-24,scamadviser.com,,0,0,0,0,0,0,,error: empty
+10:07:29 29-04-24,scam.directory,,50,50,0,0,0,0,,saved
+10:07:29 29-04-24,stopgunscams.com,,100,0,0,3,3,0,,saved
+10:07:29 29-04-24,Google Search,"committed to the progress of sustainability within our business practices. With consistent evaluatio...",23,22,0,0,0,0,3,saved
+10:07:29 29-04-24,Google Search,"we got you covered with highly professional suppliers and production houses that we keep in close co...",97,96,0,0,0,0,10,saved
+10:07:29 29-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",44,42,0,0,0,1,6,saved
+10:07:29 29-04-24,Google Search,"We have spent years searching for creative, smart, and useful products around the world and bring th...",38,35,1,0,0,0,4,saved
+10:07:29 29-04-24,Google Search,"If you ever have problems with your order, we'll do everything we can to make it right. We aim to tr...",98,93,0,0,1,0,10,saved
+10:07:29 29-04-24,Google Search,"Serving customers is our specialty - our devoted team is live and available to assist. We guarantee ...",0,0,0,0,0,0,1,error: empty
+10:07:29 29-04-24,Google Search,"Your satisfaction is our service purpose, if you have any question or need help, please feel free to...",3,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"Gone are those days you need to be an expert with years of experience, have millions of Pounds or st...",3,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",87,81,3,0,0,1,10,saved
+10:07:29 29-04-24,Google Search,"is the global leading online retailer for tops, bottoms and dresses. Our dedicated fashion buyers, w...",0,0,0,0,0,0,1,error: empty
+10:07:29 29-04-24,Google Search,"The shipment of your product is our highest priority and everyday we dispatch hundreds of products t...",42,32,0,0,0,0,5,saved
+10:07:29 29-04-24,Google Search,"We love cannabis for its wonderful properties which is exactly why we offer the services that we do....",2,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"your number one source for all things cosmetic and personal care product....",33,15,0,0,2,0,10,saved
+10:07:29 29-04-24,Google Search,"In this fast-paced world, we all enjoy comfort and convenience in almost everything. We love being c...",25,1,0,0,5,0,3,saved
+10:07:29 29-04-24,Google Search,"This website relies on Ethernet smart contracts to operate, please use a decentralized wallet to acc...",1,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"is your global online store that delivers latest fashion apparel for you! We have handmade toys , dr...",6,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"is one of the leading chargeback firms worldwide. Specializing in online trading scams (Forex, Binar...",3,0,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"To display the last codes, we must verify that you are a real human, Click on this button and comple...",4,1,0,0,0,0,1,saved
+10:07:29 29-04-24,Google Search,"we work hard to make sure our clients make the best trading and investment decisions....",13,10,0,0,0,0,2,saved
+10:07:29 29-04-24,Google Search,"We work day and night to create and sustain a forex and cryptocurrencies trading environment that he...",10,8,0,0,0,0,2,saved
+10:07:29 29-04-24,Google Search,"One of the things our customers love about our store is the unrivaled customer service that we are a...",12,6,0,0,1,0,2,saved
+10:07:29 29-04-24,Google Search,"Our Goal is to provide the best online automated trading solutions to our customers globally using o...",0,0,0,0,0,0,1,error: empty
+10:07:29 29-04-24,Google Search,"Loading... Password. Confirm password. Invitation Code. I agree with the 《Registration Agreement》. S...",0,0,0,0,0,0,1,error: empty
+00:06:44 30-04-24,Google Search,"No matter where you are, who you are and what you are passionate about we want to be able to provide...",1,0,1,0,0,0,,unsaved
+00:06:44 30-04-24,Google Search,"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",1,0,1,0,0,0,,unsaved
